@@ -53,11 +53,17 @@ Controller → Service → Repository → Database
 1.Post Request:
 <img width="1911" height="1003" alt="image" src="https://github.com/user-attachments/assets/537b9a4d-9bd1-4597-a3b3-924d0b4e815a" />
 
+
+
 2.Get Request:
 <img width="1908" height="994" alt="image" src="https://github.com/user-attachments/assets/5b973a9b-6b8b-4729-900c-89265f6990ac" />
 
+
+
 3.Delete Request:
 <img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/4b62975b-0ea5-4e87-b18b-ea72d8860be0" />
+
+
 
 4.Database Table:
 <img width="1625" height="1009" alt="image" src="https://github.com/user-attachments/assets/6ebe3a9a-a217-40cb-bfce-20ee3d150bd2" />
